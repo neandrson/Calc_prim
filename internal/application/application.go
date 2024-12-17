@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"/Calc_prim/pkg/rpn"
+	".Calc_prim/pkg/rpn"
 )
 
 type Application struct {
